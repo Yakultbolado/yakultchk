@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = $_ENV['BOT_TOKEN'];
+$config['botToken'] = $_ENV['7142164089:AAFOCOxBmHzYLhgfAxsR0D7-6EXixr77gC8'];
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = $_ENV['BOT_TOKEN'];
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = $_ENV['ADMIN_ID'];
+$config['adminID'] = $_ENV['1245958490'];
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = $_ENV['ADMIN_ID'];
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
+$config['logsID'] =  $_ENV['-4562310400'];
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
 | By Default it's in IST
 |
 */
-$config['timeZone'] =  $_ENV['TIMEZONE'];
+$config['timeZone'] =  $_ENV['America/Sao_Paulo'];
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['hostname'] =  $_ENV['sql5.freesqldatabase.com'];
+$config['db']['username'] =  $_ENV['sql5728634'];
+$config['db']['password'] =  $_ENV['qyGRMiibSL'];
+$config['db']['database'] =  $_ENV['sql5728634'];
 
 /*
 |--------------------------------------------------------------------------
