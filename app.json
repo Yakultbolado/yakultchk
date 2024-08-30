@@ -1,5 +1,5 @@
 {
-    "name": "SDMN Checker Bot",
+    "name": "Yakult Checker",
     "description": "A Telegram CC Checker Bot with hella lotta features.",
     "logo": "https://pbs.twimg.com/profile_images/1252291883793027074/RfEhm8yV_400x400.jpg",
     "keywords": [
@@ -7,41 +7,41 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/SDMN_CheckerBot",
-    "repository": "https://github.com/iam-NVN/SDMN_CheckerBot",
+    "website": "https://telegram.me/yakultdev_bot",
+    "repository": "https://github.com/Yakultbolado/yakultchk",
     "env": {
         "BOT_TOKEN": {
-            "description": "Enter your Bot Token Here. Get it from @Botfather",
+            "description": "7142164089:AAFOCOxBmHzYLhgfAxsR0D7-6EXixr77gC8",
             "value": "",
             "required": true
         },
         "ADMIN_ID": {
-            "description": "Enter the User ID of Admin.",
+            "description": "1245958490",
             "value": "",
             "required": true
         },
         "LOGS_DUMP_ID": {
-            "description": "Enter the ID of a Group/Channel to store Logs",
+            "description": "-4562310400",
             "value": "",
             "required": true
         },
         "DB_HOST": {
-            "description": "Database URL",
+            "description": "sql5.freesqldatabase.com",
             "value": "",
             "required": true
         },
         "DB_USERNAME": {
-            "description": "Database Username",
+            "description": "sql5728634",
             "value": "",
             "required": true
         },
         "DB_PASSWORD": {
-            "description": "Database Password",
+            "description": "qyGRMiibSL",
             "value": "",
             "required": true
         },
         "DB_NAME": {
-            "description": "Database Name",
+            "description": "sql5728634",
             "value": "",
             "required": true
         },
@@ -57,7 +57,7 @@
         },
         "TIMEZONE": {
             "description": "Your Preffered TimeZone",
-            "value": "Asia/Kolkata",
+            "value": "America/Sao_Paulo",
             "required": false
         }
     },
