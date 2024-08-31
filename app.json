@@ -7,7 +7,7 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://api.telegram.org/bot7142164089:AAFOCOxBmHzYLhgfAxsR0D7-6EXixr77gC8/setWebhook?url=https://yakultchk.herokuapp.com/main.php",
+    "website": "https://yakultchk.herokuapp.com",
     "repository": "https://github.com/Yakultbolado/yakultchk",
     "env": {
         "BOT_TOKEN": {
